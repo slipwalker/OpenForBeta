@@ -1,5 +1,5 @@
 # OpenForBeta
-Tests automation framework
+Tests automation framework based on BDD.
 
 Framework is supposed to be helpful for automation and run various set of functional tests.
 
